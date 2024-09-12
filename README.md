@@ -15,11 +15,10 @@
 
   <br />
 
-  **[Project Name]**  
+  **FigPro**  
 
   <br />
 
-  <a href="https://youtu.be/oKIThIihv60" target="_blank">
     <img src="https://via.placeholder.com/150" alt="Project Banner">
   </a>
 
