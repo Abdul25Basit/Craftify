@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <img src="C:\Users\A_R_COMPUTERS\Pictures\Screenshots\Figpro.png">
 
   <div>
@@ -11,7 +11,7 @@
 
  
 
-<div align="center">
+<div align="left">
 
   <br />
 
