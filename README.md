@@ -1,5 +1,5 @@
 <div align="left">
-<img src="C:\Users\A_R_COMPUTERS\Pictures\Screenshots\Figpro.png">
+<img src="https://github.com/Abdul25Basit/figpro/blob/main/public/Screenshot%202024-10-01%20214443.png">
 
 
   <div>
